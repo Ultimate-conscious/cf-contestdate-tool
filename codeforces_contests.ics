@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:rKnnIXr4zSica0N6Ww_Sp
+SUMMARY:Codeforces Round (Div. 2)
+DTSTAMP:20240812T165056Z
+DTSTART;VALUE=DATE:20240825
+DESCRIPTION:Codeforces contest: Codeforces Round (Div. 2)
+URL:https://codeforces.com/contest/2003
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:2lIwg6y6iytuguyfsQjsh
+SUMMARY:Codeforces Round (Div. 2)
+DTSTAMP:20240812T165056Z
+DTSTART;VALUE=DATE:20240820
+DESCRIPTION:Codeforces contest: Codeforces Round (Div. 2)
+URL:https://codeforces.com/contest/2001
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:I9b44UAtE7euKQ3D4mkIG
+SUMMARY:Educational Codeforces Round 169 (Rated for Div. 2)
+DTSTAMP:20240812T165056Z
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Codeforces contest: Educational Codeforces Round 169 (Rated for
+	 Div. 2)
+URL:https://codeforces.com/contest/2004
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:TZIAe4VZqRgvNLtrkUrXO
+SUMMARY:Codeforces Round 966 (Div. 3)
+DTSTAMP:20240812T165056Z
+DTSTART;VALUE=DATE:20240813
+DESCRIPTION:Codeforces contest: Codeforces Round 966 (Div. 3)
+URL:https://codeforces.com/contest/2000
+DURATION:PT2H15M
+END:VEVENT
+END:VCALENDAR
